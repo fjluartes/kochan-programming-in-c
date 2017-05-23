@@ -4,8 +4,6 @@ Programming in C
 
 Third edition
 
-Stephen Kochan
-
-\\
+Stephen Kochan \
 
 Programs and answers to Exercises
