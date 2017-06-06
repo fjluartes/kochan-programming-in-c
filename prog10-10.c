@@ -35,7 +35,7 @@ int lookup(const struct entry dictionary[], const char search[], const int entri
     if (result == -1)
       low = mid + 1;
     else if (result == 1)
-      high = mid + 1;
+      high = mid - 1;
     else
       return mid; // found it
   }
